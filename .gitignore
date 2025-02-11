@@ -1,0 +1,10 @@
+# Folder yang tidak perlu di-push
+node_modules/
+dist/
+.env
+
+# File log & cache
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
